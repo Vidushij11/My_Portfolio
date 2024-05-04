@@ -58,6 +58,7 @@
             stroke-width: 2px;
             height: 450px;
             width: 450px;
+            z-index: -1;
 
             @include mobile{
                 height: 200px;
